@@ -15,5 +15,5 @@ In this project;<br>
 -CSS Frameworks, <br>
 -React bootstrap,  <br>
 -Component structure, <br>
--useState and <br
+-useState and <br>
 -React Component <br> were used
