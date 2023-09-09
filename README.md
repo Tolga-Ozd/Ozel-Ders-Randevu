@@ -1,4 +1,5 @@
 ## Welcome to My Project!  👋
+![ozeldersrandevu](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/dcd63f26-1fc0-4fda-a979-9b907e7ab702)
 
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
 
